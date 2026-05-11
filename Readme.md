@@ -36,6 +36,7 @@ There are some specific objectives for this project, which are as follows:
 | `title` | Small title |
 | `URL` | Raw url content |
 | `---` | --------- |
+| `---` | --------- |
 | `label` | 0 = phishing, 1 = legitimate |
 
 The dataset was cleaned, null values replaced, and text normalized.
