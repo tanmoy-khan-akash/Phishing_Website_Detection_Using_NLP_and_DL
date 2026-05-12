@@ -3,7 +3,7 @@
 
 ### Code Overview 
 
-### Steps
+### Steps by Step
 - Exploratory Data Analysis (EDA)
 - Text cleaning and preprocessing
 - Lemmatization using WordNetLemmatizer
