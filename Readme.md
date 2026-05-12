@@ -10,7 +10,7 @@ There are some specific objectives for this project, which are as follows:
 - To develop a robust model for accurately identifying phishing websites.
 - To investigate the accuracy and performance of the proposed model.
 
-### Steps
+### Steps by Step
 - Exploratory Data Analysis (EDA)
 - Text cleaning and preprocessing
 - Lemmatization using WordNetLemmatizer
