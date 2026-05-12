@@ -3,9 +3,7 @@
 #### This project implements an end-to-end text classification pipeline to classify URLs as phishing (0) or legitimate (1) using traditional Deep Learning techniques and clean NLP preprocessing. It includes dataset exploration, preprocessing, TF-IDF vectorization, multiple model training, evaluation, and a production-ready prediction system with model + vectorizer saving.
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dataset Overview 
-
-### Step by Step
+### Steps by Step Dataset Overview 
 
 ### Dataset
 [The dataset](https://github.com/tanmoy-khan-akash/Phishing_Website_Detection_Using_NLP_-_DL/blob/main/Dataset/phishing_dataset.csv) contains three columns:
