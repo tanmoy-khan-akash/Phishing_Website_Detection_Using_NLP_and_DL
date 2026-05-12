@@ -73,3 +73,5 @@ Four models were trained and evaluated:
 
 #### The trained Linear Kernel model is saved.
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+These resources are perfect for both beginners and advanced learners.
