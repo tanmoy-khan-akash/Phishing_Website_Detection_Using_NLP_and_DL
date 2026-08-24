@@ -78,4 +78,9 @@ Four models were trained and evaluated:
 #### The trained Linear Kernel model is saved.
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+✅ Follow this link and spread the word around the world.
+
+#### Link: 🔗 https://github.com/tanmoy-khan-akash/Phishing_Website_Detection_Using_NLP_and_DL
+------------------------------------------------------------------------------------------------------------------------------------------
+
 These resources are perfect for both beginners and advanced learners.
