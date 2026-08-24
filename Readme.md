@@ -1,5 +1,9 @@
+<div align="center">
+	<h1><a>Phishing Website Detection Using NLP and DL</a></h1>
+</div>
 
-# Phishing_Website_Detection_Using_NLP_and_DL 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 #### This project implements an end-to-end text classification pipeline to classify URLs as phishing (0) or legitimate (1) using traditional Deep Learning techniques and clean NLP preprocessing. It includes dataset exploration, preprocessing, TF-IDF vectorization, multiple model training, evaluation, and a production-ready prediction system with model + vectorizer saving.
 ------------------------------------------------------------------------------------------------------------------------------------------
 
